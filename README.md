@@ -1,8 +1,8 @@
- <div align="center">
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=155&color=0:090B18,35:211B42,70:49366D,100:B49A70&text=BizIntel%20AI&fontSize=55&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn&desc=THE%20FUTURE%20OF%20BUSINESS%20INTELLIGENCE&descSize=12&descAlignY=65&descColor=E5D8C2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:090B18,35:211B42,70:49366D,100:B49A70&text=BizIntel%20AI&fontSize=76&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=THE%20FUTURE%20OF%20BUSINESS%20INTELLIGENCE&descSize=15&descAlignY=62&descColor=E5D8C2" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2800&pause=900&color=C8B58E&center=true&vCenter=true&width=700&height=35&lines=Intelligent+Multi-Agent+Business+Analysis;Turning+Financial+Data+Into+Insights;AI-Powered+Executive+Intelligence" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=900&color=C8B58E&center=true&vCenter=true&width=780&height=45&lines=Intelligent+Multi-Agent+Business+Analysis;Turning+Financial+Data+Into+Insights;AI-Powered+Executive+Intelligence" />
 
 <br/>
 
