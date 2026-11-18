@@ -1,73 +1,134 @@
-\<div align="center">
 
-\<img src="[https://readme-typing-svg.demolab.com?font=Georgia&weight=800&size=46&duration=2500&pause=900&color=FFFFFF&background=800000&center=true&vCenter=true&width=850&height=110&lines=BizIntel+AI;Intelligent+Business+Insights;Multi-Agent+Business+Intelligence](https://readme-typing-svg.demolab.com?font=Georgia\&weight=800\&size=46\&duration=2500\&pause=900\&color=FFFFFF\&background=800000\&center=true\&vCenter=true\&width=850\&height=110\&lines=BizIntel+AI;Intelligent+Business+Insights;Multi-Agent+Business+Intelligence)" alt="BizIntel AI" />
+<div align="center">
 
-\<h3>AI-Powered Multi-Agent Business Intelligence Platform\</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:2B0000,50:800000,100:C0394B&height=220&section=header&text=BizIntel%20AI&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&desc=INTELLIGENT%20BUSINESS%20INSIGHTS&descSize=16&descAlignY=68&stroke=FFFFFF&strokeWidth=1" />
 
-\<p>\<em>Transforming Business Data into Meaningful Intelligence\</em>\</p>
+### AI-Powered Multi-Agent Business Intelligence Platform
 
-\<img src="[https://img.shields.io/badge/AI--Powered-Business%20Intelligence-800000?style=for-the-badge](https://img.shields.io/badge/AI--Powered-Business%20Intelligence-800000?style=for-the-badge)" />
-\<img src="[https://img.shields.io/badge/Multi--Agent-AI-650000?style=for-the-badge](https://img.shields.io/badge/Multi--Agent-AI-650000?style=for-the-badge)" />
-\<img src="[https://img.shields.io/badge/Status-Active-9B1C31?style=for-the-badge](https://img.shields.io/badge/Status-Active-9B1C31?style=for-the-badge)" />
+*Transforming Business Data into Intelligent Business Decisions.*
 
-\<br/>\<br/>
+<br/>
 
-\<img src="[https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)" /> \<img src="[https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)" /> \<img src="[https://img.shields.io/badge/AutoGen-725AC1?style=flat-square](https://img.shields.io/badge/AutoGen-725AC1?style=flat-square)" /> \<img src="[https://img.shields.io/badge/Groq-F55036?style=flat-square](https://img.shields.io/badge/Groq-F55036?style=flat-square)" /> \<img src="[https://img.shields.io/badge/ReportLab-8B0000?style=flat-square](https://img.shields.io/badge/ReportLab-8B0000?style=flat-square)" />
+<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-Multi--Agent-800000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLM-Groq-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REPORTING-Automated_PDF-9B1C31?style=for-the-badge" />
 
-\</div>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/AutoGen-725AC1?style=flat-square" />
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/ReportLab-8B0000?style=flat-square" />
+
+</div>
 
 ---
 
-## 🔴 Overview
+## 🔴 Project Overview
 
-**BizIntel AI** is an AI-powered business intelligence platform that uses collaborative AI agents to analyze business performance, identify financial trends, and generate actionable insights.
+**BizIntel AI** is an intelligent, multi-agent business intelligence platform designed to transform financial data into meaningful business insights.
 
-It transforms business data into structured intelligence and produces professional, downloadable PDF reports to support informed business decisions.
+Powered by AI agents, the platform analyzes business performance, evaluates financial metrics, generates executive recommendations, and produces professional downloadable PDF reports.
+
+The system combines automated data analysis, multi-agent collaboration, and AI-powered reporting in one integrated platform.
 
 ## ✨ Key Features
 
-- **Multi-Agent AI Analysis:** Specialized AI agents collaborate to analyze business performance.
-- **Financial Intelligence:** Analyzes sales, expenses, profit, and profit margins.
-- **Business Insights:** Generates observations and recommendations from financial data.
-- **Interactive Dashboard:** Displays essential business performance metrics.
-- **Automated PDF Reporting:** Creates professional downloadable business reports.
-- **AI-Powered Workflow:** Connects data processing, analysis, and report generation.
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Multi-Agent Intelligence
+Collaborative AI agents for specialized business analysis.
+
+</td>
+<td width="50%">
+
+### 📊 Financial Analytics
+Analysis of sales, expenses, profit, and profit margins.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🧠 AI Recommendations
+Business insights and actionable recommendations.
+
+</td>
+<td width="50%">
+
+### 📄 PDF Report Generation
+Professional, downloadable business intelligence reports.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📈 Interactive Dashboard
+A centralized view of important business metrics.
+
+</td>
+<td width="50%">
+
+### ⚡ Automated Workflow
+Connected data processing, AI analysis, and reporting.
+
+</td>
+</tr>
+</table>
 
 ## 🛠️ Technology Stack
 
-| Component              | Technology    |
-| ---------------------- | ------------- |
-| Programming Language   | Python        |
-| Backend Framework      | FastAPI       |
-| Multi-Agent Framework  | AutoGen       |
-| LLM Provider           | Groq          |
-| AI Model               | GPT-OSS-20B   |
-| PDF Generation         | ReportLab     |
-| Data Visualization     | Matplotlib    |
-| Frontend               | React, Vite   |
-| Environment Management | Python dotenv |
+| Category | Technologies |
+|---|---|
+| Language | Python |
+| Backend | FastAPI |
+| Multi-Agent Framework | AutoGen |
+| LLM Provider | Groq |
+| AI Model | GPT-OSS-20B |
+| PDF Generation | ReportLab |
+| Visualization | Matplotlib |
+| Frontend | React, Vite |
+| Configuration | Python dotenv |
 
-## ⚙️ Project Workflow
+## ⚙️ System Architecture
 
-\<div align="center">
+<div align="center">
+
+<img width="90%" src="https://capsule-render.vercel.app/api?type=rect&color=800000&height=3&section=header" />
+
+</div>
 
 ```text
-       BUSINESS DATA
-             ↓
-       DATA PROCESSING
-             ↓
-      MULTI-AGENT AI
-             ↓
-      FINANCIAL ANALYSIS
-             ↓
-    BUSINESS RECOMMENDATIONS
-             ↓
-     EXECUTIVE INSIGHTS
-             ↓
-    PROFESSIONAL PDF REPORT
+                 BUSINESS DATA
+                       |
+                       v
+                DATA PROCESSING
+                       |
+                       v
+              MULTI-AGENT SYSTEM
+                       |
+             +---------+---------+
+             |         |         |
+             v         v         v
+          BUSINESS   DATA    EXECUTIVE
+          MANAGER   ANALYST   INSIGHTS
+             |         |         |
+             +---------+---------+
+                       |
+                       v
+              AI-GENERATED INSIGHTS
+                       |
+                       v
+              PROFESSIONAL PDF REPORT
+                       |
+                       v
+                 DOWNLOAD REPORT
 ```
-
-\</div>
 
 ## 📁 Project Structure
 
@@ -76,8 +137,8 @@ BizIntel-AI/
 │
 ├── app.py
 ├── requirements.txt
-├── .env
 ├── .gitignore
+├── .env
 │
 └── frontend/
     ├── index.html
@@ -87,20 +148,20 @@ BizIntel-AI/
 
 ## 🚀 Installation & Setup
 
-### 1. Clone the Repository
+### 1. Clone Repository
 
 ```bash
 git clone https://github.com/Hameymaan/BizIntel-AI.git
 cd BizIntel-AI
 ```
 
-### 2. Create a Virtual Environment
+### 2. Create Virtual Environment
 
 ```bash
 python -m venv .venv
 ```
 
-### 3. Activate the Environment
+### 3. Activate Environment
 
 Windows PowerShell:
 
@@ -123,13 +184,13 @@ GROQ_API_KEY=your_groq_api_key
 GROQ_MODEL=openai/gpt-oss-20b
 ```
 
-### 6. Start the Backend
+### 6. Run Backend
 
 ```bash
 py app.py
 ```
 
-### 7. Start the Frontend
+### 7. Run Frontend
 
 Open another terminal:
 
@@ -141,36 +202,27 @@ npm run dev
 
 ## 🔐 Security
 
-- API credentials are managed through environment variables.
-- `.env` files should never be uploaded to public repositories.
-- Sensitive credentials must remain private.
+- API keys are managed through environment variables.
+- Sensitive credentials should never be committed to GitHub.
+- The `.env` file should remain private.
 
 ---
 
-\<div align="center">
+<div align="center">
 
-\<table width="100%">
-\<tr>
-\<td align="center" bgcolor="#650000">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2B0000,50:800000,100:C0394B&height=4&section=header" />
 
-\<br/>
+<br/>
 
-\<img src="[https://readme-typing-svg.demolab.com?font=Georgia&weight=800&size=30&duration=2500&pause=1000&color=FFFFFF&background=650000&center=true&vCenter=true&width=600&height=65&lines=Developed+by+Hania+Eman](https://readme-typing-svg.demolab.com?font=Georgia\&weight=800\&size=30\&duration=2500\&pause=1000\&color=FFFFFF\&background=650000\&center=true\&vCenter=true\&width=600\&height=65\&lines=Developed+by+Hania+Eman)" alt="Developed by Hania Eman" />
-
-\<h2>HANIA EMAN\</h2>
-
-\<p>\<em>AI & Data Science | Python | Multi-Agent AI Systems\</em>\</p>
-
-\<p>Building Intelligent Solutions Through AI & Innovation.\</p>
-
-\<br/>
-
-\</td> \</tr> \</table>
-
-\<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:2B0000,50:800000,100:C0394B&height=170&section=footer&text=Developed%20by%20Hania%20Eman&fontSize=32&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&desc=AI%20%26%20Data%20Science%20%7C%20Python%20%7C%20AI%20Engineering&descSize=13&descAlignY=70" />
 
 **BizIntel AI**
 
 *Turning Business Data into Intelligence.*
 
-\</div>
+<br/>
+
+<img src="https://img.shields.io/badge/BUILT_WITH-AI-800000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CREATED_BY-HANIA_EMAN-650000?style=for-the-badge" />
+
+</div>
