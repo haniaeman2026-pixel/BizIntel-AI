@@ -113,7 +113,7 @@ BizIntel-AI/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Hameymaan/BizIntel-AI.git
+git clone https://github.com/haniaeman2026-pixel/BizIntel-AI.git
 cd BizIntel-AI
 ```
 
@@ -174,7 +174,7 @@ npm run dev
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9B8B68,45:26364D,100:101827&height=155&section=footer&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=30&duration=2500&pause=1200&color=C6B58F&background=101827&center=true&vCenter=true&width=650&height=65&lines=Developed+by+Hania+Iqbal" alt="Developed by Hania Iqbal" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=30&duration=2500&pause=1200&color=C6B58F&background=101827&center=true&vCenter=true&width=650&height=65&lines=Developed+by+Hania+Eman" alt="Developed by Hania Eman" />
 
 ### HANIA IQBAL
 
