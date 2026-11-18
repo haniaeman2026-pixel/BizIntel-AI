@@ -1,98 +1,150 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,45:26364D,100:9B8B68&height=230&section=header&text=BizIntel%20AI&fontSize=68&fontColor=F8F5ED&fontAlignY=42&animation=fadeIn&desc=INTELLIGENT%20BUSINESS%20INTELLIGENCE&descSize=15&descColor=E5DCC8&descAlignY=62" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:090B18,35:211B42,70:49366D,100:B49A70&text=BizIntel%20AI&fontSize=76&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=THE%20FUTURE%20OF%20BUSINESS%20INTELLIGENCE&descSize=15&descAlignY=62&descColor=E5D8C2" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=3000&pause=1000&color=B9A77D&center=true&vCenter=true&width=750&height=45&lines=Multi-Agent+Business+Intelligence;AI-Powered+Financial+Analysis;From+Business+Data+to+Intelligent+Insights" alt="Animated project tagline" />
-
-<br/>
-
-### AI-Powered Multi-Agent Business Intelligence Platform
-
-*Transforming business data into meaningful intelligence.*
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=900&color=C8B58E&center=true&vCenter=true&width=780&height=45&lines=Intelligent+Multi-Agent+Business+Analysis;Turning+Financial+Data+Into+Insights;AI-Powered+Executive+Intelligence" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Python-1F2937?style=flat-square&logo=python&logoColor=F2D9A0" />
-<img src="https://img.shields.io/badge/FastAPI-1F2937?style=flat-square&logo=fastapi&logoColor=8ED9C5" />
-<img src="https://img.shields.io/badge/AutoGen-1F2937?style=flat-square&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Groq-1F2937?style=flat-square&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/React-1F2937?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/ReportLab-1F2937?style=flat-square&logoColor=FFFFFF" />
+### AI-POWERED MULTI-AGENT BUSINESS INTELLIGENCE
+
+*Analyze smarter. Discover insights. Make informed decisions.*
+
+<br/>
+
+<img src="https://img.shields.io/badge/ENGINE-POWERED%20BY%20AI-211B42?style=for-the-badge&labelColor=090B18" />
+<img src="https://img.shields.io/badge/ARCHITECTURE-MULTI--AGENT-49366D?style=for-the-badge&labelColor=090B18" />
+<img src="https://img.shields.io/badge/REPORTING-AUTOMATED-C0A878?style=for-the-badge&labelColor=090B18" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/AutoGen-49366D?style=flat-square" />
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/ReportLab-9A825E?style=flat-square" />
 
 </div>
 
 ---
 
-## Overview
+## ◈ About the Project
 
-**BizIntel AI** is an AI-powered business intelligence platform that uses a multi-agent architecture to analyze financial data and generate meaningful business insights.
+**BizIntel AI** is an AI-powered business intelligence platform built to transform financial data into meaningful business insights through a collaborative multi-agent architecture.
 
-The platform combines financial analysis, collaborative AI agents, and automated reporting to transform raw business data into structured executive intelligence.
+It brings together specialized AI agents, financial analysis, executive-level insights, and automated PDF reporting in one integrated application.
 
-It also generates professional downloadable PDF reports containing financial summaries, analytical findings, and business recommendations.
+The platform helps turn business performance data into structured analysis and professional reports.
 
-## Core Features
+## ✦ What Makes BizIntel AI Special
 
-| Feature | Description |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Multi-Agent Intelligence
+
+Specialized AI agents collaborate to examine business information and generate analytical findings.
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Financial Analytics
+
+Analyzes sales, expenses, profit, and profit margins to provide a clearer view of business performance.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Executive Insights
+
+Converts analytical findings into business observations and recommendations.
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Automated PDF Reports
+
+Generates structured, downloadable PDF reports for professional business presentation.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Interactive Dashboard
+
+Provides a centralized interface for viewing essential business metrics.
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Integrated AI Workflow
+
+Connects data processing, agent collaboration, analysis, and report generation.
+
+</td>
+</tr>
+</table>
+
+## ◈ Technology Ecosystem
+
+| Layer | Technology |
 |---|---|
-| Multi-Agent AI | Collaborative agents for specialized business analysis |
-| Financial Analytics | Sales, expenses, profit, and profit margin analysis |
-| Business Insights | AI-generated observations and recommendations |
-| Executive Analysis | Consolidated business intelligence findings |
-| Interactive Dashboard | Centralized business performance metrics |
-| PDF Reporting | Professional downloadable business reports |
-
-## Technology Stack
-
-| Category | Technology |
-|---|---|
-| Language | Python |
-| Backend | FastAPI |
-| Agent Framework | AutoGen |
+| Programming Language | Python |
+| Backend Framework | FastAPI |
+| Multi-Agent Framework | AutoGen |
 | LLM Provider | Groq |
 | AI Model | GPT-OSS-20B |
-| PDF Generation | ReportLab |
+| PDF Engine | ReportLab |
 | Data Visualization | Matplotlib |
 | Frontend | React, Vite |
-| Configuration | Python dotenv |
+| Environment Configuration | Python dotenv |
 
-## System Workflow
+## ◈ Multi-Agent Workflow
 
 <div align="center">
 
-<img width="85%" src="https://capsule-render.vercel.app/api?type=rect&color=0:101827,100:9B8B68&height=3&section=header" />
+<img width="85%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:49366D,50:C0A878,100:49366D" />
 
 </div>
 
 ```text
                  BUSINESS DATA
-                       |
-                       v
+                       │
+                       ▼
                 DATA PROCESSING
-                       |
-                       v
+                       │
+                       ▼
               MULTI-AGENT SYSTEM
-                       |
-             +---------+---------+
-             |         |         |
-             v         v         v
-          BUSINESS   DATA    EXECUTIVE
-          MANAGER   ANALYST   AGENT
-             |         |         |
-             +---------+---------+
-                       |
-                       v
-                AI BUSINESS INSIGHTS
-                       |
-                       v
-              EXECUTIVE RECOMMENDATIONS
-                       |
-                       v
-              PROFESSIONAL PDF REPORT
+                       │
+          ┌────────────┼────────────┐
+          ▼            ▼            ▼
+     BUSINESS       DATA        EXECUTIVE
+     MANAGER       ANALYST        AGENT
+          │            │            │
+          └────────────┼────────────┘
+                       ▼
+                AI ANALYSIS
+                       │
+                       ▼
+             BUSINESS RECOMMENDATIONS
+                       │
+                       ▼
+              EXECUTIVE SUMMARY
+                       │
+                       ▼
+              PDF REPORT GENERATION
+                       │
+                       ▼
+                DOWNLOAD REPORT
 ```
 
-## Project Structure
+## ◈ Project Structure
 
 ```text
 BizIntel-AI/
@@ -108,22 +160,22 @@ BizIntel-AI/
     └── src/
 ```
 
-## Installation & Setup
+## ◈ Getting Started
 
-### 1. Clone the Repository
+### 01 — Clone the Repository
 
 ```bash
 git clone https://github.com/haniaeman2026-pixel/BizIntel-AI.git
 cd BizIntel-AI
 ```
 
-### 2. Create a Virtual Environment
+### 02 — Create a Virtual Environment
 
 ```bash
 python -m venv .venv
 ```
 
-### 3. Activate the Environment
+### 03 — Activate the Environment
 
 Windows PowerShell:
 
@@ -131,28 +183,28 @@ Windows PowerShell:
 .venv\Scripts\Activate.ps1
 ```
 
-### 4. Install Dependencies
+### 04 — Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 5. Configure Environment Variables
+### 05 — Configure Environment Variables
 
-Create a `.env` file in the root directory:
+Create a `.env` file in the project root:
 
 ```env
 GROQ_API_KEY=your_groq_api_key
 GROQ_MODEL=openai/gpt-oss-20b
 ```
 
-### 6. Start the Backend
+### 06 — Launch the Backend
 
 ```bash
 py app.py
 ```
 
-### 7. Start the Frontend
+### 07 — Launch the Frontend
 
 Open a separate terminal:
 
@@ -162,33 +214,33 @@ npm install
 npm run dev
 ```
 
-## Security
+## ◈ Security & Configuration
 
-- API credentials are stored in environment variables.
-- The `.env` file must not be committed to a public repository.
-- Sensitive credentials should always remain private.
+- API credentials are managed through environment variables.
+- Never commit private API keys or `.env` files.
+- Keep sensitive configuration outside public repositories.
 
 ---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9B8B68,45:26364D,100:101827&height=155&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=165&section=footer&color=0:49366D,45:211B42,100:090B18&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=30&duration=2500&pause=1200&color=C6B58F&background=101827&center=true&vCenter=true&width=650&height=65&lines=Developed+by+Hania+Eman" alt="Developed by Hania Eman" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=32&duration=2800&pause=1000&color=D5C29D&center=true&vCenter=true&width=700&height=65&lines=Developed+by+Hania+Eman" alt="Developed by Hania Eman" />
 
 ### HANIA IQBAL
 
-*AI & Data Science | Python | Multi-Agent AI Systems*
+**AI & Data Science · Python · Multi-Agent AI**
 
-**Building Intelligent Solutions Through AI & Innovation.**
+*Building intelligent solutions through innovation.*
 
 <br/>
 
-<img src="https://img.shields.io/badge/BUILT_WITH-INTELLIGENCE-26364D?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CRAFTED_WITH-AI-C6B58F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/THINK-INTELLIGENTLY-211B42?style=for-the-badge&labelColor=090B18" />
+<img src="https://img.shields.io/badge/BUILD-WITH%20AI-B49A70?style=for-the-badge&labelColor=090B18" />
 
 <br/><br/>
 
-*BizIntel AI — Turning Business Data into Intelligence.*
+*BizIntel AI — Where Business Data Becomes Intelligence.*
 
 </div>
