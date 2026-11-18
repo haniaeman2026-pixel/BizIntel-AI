@@ -228,7 +228,7 @@ npm run dev
 
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=32&duration=2800&pause=1000&color=D5C29D&center=true&vCenter=true&width=700&height=65&lines=Developed+by+Hania+Eman" alt="Developed by Hania Eman" />
 
-### HANIA IQBAL
+### HANIA EMAN
 
 **AI & Data Science · Python · Multi-Agent AI**
 
